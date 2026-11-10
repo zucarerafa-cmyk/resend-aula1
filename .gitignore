@@ -1,0 +1,9 @@
+# Arquivos protegidos
+config.php
+envios.log
+
+# Permite enviar o modelo de configuração
+!config.exemplo.php
+
+# Dependencias
+/vendor/
